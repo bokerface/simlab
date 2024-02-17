@@ -1,0 +1,12 @@
+{
+    "name": "bokerface/survey",
+    "description": "survey questioner",
+    "authors": [
+        {
+            "name": "bokerface",
+            "email": "waskitodamar17@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
